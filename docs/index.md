@@ -14,6 +14,8 @@ I'm an Associate Professor at the Faculty of Electronics, Telecommunications and
 #### Latest News
 
 - [2022 Sept-Oct] I'm a mentor in a student competition using AI to recognize old romanian texts written in Cyrillic: [Inteligența artificială aplicată în descifrarea scrierilor vechi românești](https://www.hackathons.ro/inteligenta-artificiala-aplicata-in-descifrarea-alfabetului-chirilic-septembrie-2022/)
+
+- [2022 Sept] I'm a member of the [Research Center for Logic, Optimization and Security (LOS)](https://los.cs.unibuc.ro/) at the Faculty of Mathematics and Computer Science, University of Bucharest
     
 - [2022 Sept] I joined the [NetAlert project](https://cs.unibuc.ro/~pirofti/netalert.html), using machine learning tools for detecting abnormal behavior in computer networks
 
